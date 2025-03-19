@@ -30,7 +30,7 @@ You can use the trained model to **predict the sentiment of any customer review*
 
 ### 1️⃣ Clone the Repository and Install Requirements
 ```bash
-git clone <your-repository-link>
+git clone <[your-repository-link](https://github.com/osaldealwis/Customer-Review-Sentiment-Classification.git)>
 cd sentiment-analysis-project
 pip install -r requirements.txt
 ```
